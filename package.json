@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "jade-beautify:convert"
   },
-  "repository": "https://github.com/atom/jade-beautify",
+  "repository": "https://github.com/vingorius/jade-beautify.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
