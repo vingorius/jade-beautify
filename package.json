@@ -3,7 +3,7 @@
   "main": "./lib/jade-beautify",
   "version": "0.0.4",
   "description": "Simple Jade Beautify",
-  "keywords": ['jade','beautify','formatter'],
+  "keywords": ["jade","beautify","formatter"],
   "activationCommands": {
     "atom-workspace": "jade-beautify:convert"
   },
