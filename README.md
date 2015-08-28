@@ -20,8 +20,8 @@ Please visit on https://github.com/vingorius/jade-beautify/issues
 
 ## Below From @jerone on https://github.com/Glavin001/atom-beautify/issues/199
 - [X] As @pjbrow mentions, indention alignment is one that a beautifier could solve.
-- [ ] As JetBrains mentions, tabs to spaces and visa versa.
-- [ ] Omit the div element when it has a class or id.
+- [X] As JetBrains mentions, tabs to spaces and visa versa.
+- [X] Omit the div element when it has a class or id.
 - [ ] Force/remove comma's , between attributes.
 - [ ] Force/remove spaces between attributes.
 - [ ] For negated conditions use unless.
