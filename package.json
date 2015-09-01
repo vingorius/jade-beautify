@@ -9,7 +9,8 @@
     "formatter"
   ],
   "activationCommands": {
-    "atom-workspace": "jade-beautify:convert"
+    "atom-workspace": ["jade-beautify:convert","core:save"],
+    ".tree-view .file .name": ["jade-beautify:beautifyFile"]
   },
   "repository": "https://github.com/vingorius/jade-beautify.git",
   "license": "MIT",
