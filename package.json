@@ -1,7 +1,7 @@
 {
   "name": "jade-beautify",
   "main": "./lib/jade-beautify",
-  "version": "0.1.12",
+  "version": "0.0.12",
   "description": "Simple Jade Beautify",
   "keywords": [
     "jade",
