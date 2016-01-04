@@ -9,7 +9,7 @@ To install jade-beautify,at atom, Packages >> Setting View >> Open or Ctrl-comma
 Click install tab, search 'jade-beautify' and install it.
 
 # Usage
-To reformat jade indent, clik ctl-alt-o.
+To reformat jade indent, click ctl-alt-o.
 
 # To leave Issues
 Please visit on https://github.com/vingorius/jade-beautify/issues
