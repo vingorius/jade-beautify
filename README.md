@@ -10,12 +10,19 @@ Click install tab, search 'jade-beautify' and install it.
 
 # Usage
 To reformat jade indent, click ctl-alt-o.
+When you check 'Force beautify on save'(default is 'checked'), reformat it automatically.
+It works on save-all event also.
+
+# Settings
+- Force beautify on save : when checked, jade-beautify format it automatically on save, save-all event. default checked.
+- Indent with tabs : when checked, jade-beautify fill indent as tab, when not spaces. default is checked.
+- Omit div tag : when checked, jade-beautify omit div tag. default unchecked.
 
 # To leave Issues
 Please visit on https://github.com/vingorius/jade-beautify/issues
 
 # TODO
-- [ ] only work for jade file
+- [X] only work for jade file
 - [ ] write test
 
 ## Below From @jerone on https://github.com/Glavin001/atom-beautify/issues/199
