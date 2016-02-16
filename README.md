@@ -14,7 +14,8 @@ When you check 'Force beautify on save'(default is 'checked'), reformat it autom
 It works on save-all event also.
 
 # Settings
-- Force beautify on save : when checked, jade-beautify format it automatically on save, save-all event. default checked.
+- Force beautify when save : when checked, jade-beautify format it automatically on save event. default checked.
+- Force beautify modified one when save-all: when checked,  jade-beautify format it automatically on save-all event. but only modified one. default unchecked.
 - Indent with tabs : when checked, jade-beautify fill indent as tab, when not spaces. default is checked.
 - Omit div tag : when checked, jade-beautify omit div tag. default unchecked.
 
