@@ -1,14 +1,19 @@
 # Jade-beautify package for Atom Editor
 
-This tiny program only reformat a jade file.
+This tiny program only beautify a jade file.
 
-The idea is from @pjbrow on https://github.com/Glavin001/atom-beautify/issues/199
+[The idea](https://github.com/Glavin001/atom-beautify/issues/199) is from @pjbrow.
 
 _Note :_ This program depends on [pug-beautify](https://github.com/vingorius/pug-beautify) module.
 
 # Installation
+
 To install jade-beautify,at atom, Packages >> Setting View >> Open or Ctrl-comma.
-Click install tab, search 'jade-beautify' and install it.
+Click install tab, search 'jade-beautify' and install it. Or just type below.
+
+```
+apm install jade-beautify
+```
 
 # Usage
 To reformat jade indent, click ctl-alt-o.
