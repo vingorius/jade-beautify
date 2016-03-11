@@ -1,4 +1,4 @@
-# jade-beautify package
+# jade-beautify package for Atom Editor
 
 This tiny program only reformat a jade file.
 
