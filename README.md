@@ -4,6 +4,8 @@ This tiny program only reformat a jade file.
 
 The idea is from @pjbrow on https://github.com/Glavin001/atom-beautify/issues/199
 
+_Note :_ This program depends on [pug-beautify](https://github.com/vingorius/pug-beautify) module.
+
 # Installation
 To install jade-beautify,at atom, Packages >> Setting View >> Open or Ctrl-comma.
 Click install tab, search 'jade-beautify' and install it.
